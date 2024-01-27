@@ -1,0 +1,565 @@
+[
+  {
+    "id": "1",
+    "name": "Manufacturing",
+    "subsectors": [
+      "19",
+      "18",
+      "6",
+      "13",
+      "12",
+      "11",
+      "9",
+      "5",
+      "7",
+      "8"
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Construction materials",
+    "subsectors": [],
+    "parent": "1"
+  },
+  {
+    "id": "18",
+    "name": "Electronics and Optics",
+    "subsectors": [],
+    "parent": "1"
+  },
+  {
+    "id": "6",
+    "name": "Food and Beverage",
+    "subsectors": [
+      "342",
+      "43",
+      "42",
+      "40",
+      "39",
+      "437",
+      "378"
+    ],
+    "parent": "1"
+  },
+  {
+    "id": "342",
+    "name": "Bakery & confectionery products",
+    "subsectors": [],
+    "parent": "6"
+  },
+  {
+    "id": "43",
+    "name": "Beverages",
+    "subsectors": [],
+    "parent": "6"
+  },
+  {
+    "id": "42",
+    "name": "Fish & fish products",
+    "subsectors": [],
+    "parent": "6"
+  },
+  {
+    "id": "40",
+    "name": "Meat & meat products",
+    "subsectors": [],
+    "parent": "6"
+  },
+  {
+    "id": "39",
+    "name": "Milk & dairy products",
+    "subsectors": [],
+    "parent": "6"
+  },
+  {
+    "id": "437",
+    "name": "Other",
+    "subsectors": [],
+    "parent": "6"
+  },
+  {
+    "id": "378",
+    "name": "Sweets & snack food",
+    "subsectors": [],
+    "parent": "6"
+  },
+  {
+    "id": "13",
+    "name": "Furniture",
+    "subsectors": [
+      "389",
+      "385",
+      "390",
+      "98",
+      "101",
+      "392",
+      "394",
+      "341",
+      "99"
+    ],
+    "parent": "1"
+  },
+  {
+    "id": "389",
+    "name": "Bathroom/sauna",
+    "subsectors": [],
+    "parent": "13"
+  },
+  {
+    "id": "385",
+    "name": "Bedroom",
+    "subsectors": [],
+    "parent": "13"
+  },
+  {
+    "id": "390",
+    "name": "Children's room",
+    "subsectors": [],
+    "parent": "13"
+  },
+  {
+    "id": "98",
+    "name": "Kitchen",
+    "subsectors": [],
+    "parent": "13"
+  },
+  {
+    "id": "101",
+    "name": "Living room",
+    "subsectors": [],
+    "parent": "13"
+  },
+  {
+    "id": "392",
+    "name": "Office",
+    "subsectors": [],
+    "parent": "13"
+  },
+  {
+    "id": "394",
+    "name": "Other (Furniture)",
+    "subsectors": [],
+    "parent": "13"
+  },
+  {
+    "id": "341",
+    "name": "Outdoor",
+    "subsectors": [],
+    "parent": "13"
+  },
+  {
+    "id": "99",
+    "name": "Project furniture",
+    "subsectors": [],
+    "parent": "13"
+  },
+  {
+    "id": "12",
+    "name": "Machinery",
+    "subsectors": [
+      "94",
+      "91",
+      "224",
+      "97",
+      "93",
+      "508",
+      "227"
+    ],
+    "parent": "1"
+  },
+  {
+    "id": "94",
+    "name": "Machinery components",
+    "subsectors": [],
+    "parent": "12"
+  },
+  {
+    "id": "91",
+    "name": "Machinery equipment/tools",
+    "subsectors": [],
+    "parent": "12"
+  },
+  {
+    "id": "224",
+    "name": "Manufacture of machinery",
+    "subsectors": [],
+    "parent": "12"
+  },
+  {
+    "id": "97",
+    "name": "Maritime",
+    "subsectors": [
+      "271",
+      "269",
+      "230"
+    ],
+    "parent": "12"
+  },
+  {
+    "id": "271",
+    "name": "Aluminium and steel workboats",
+    "subsectors": [],
+    "parent": "97"
+  },
+  {
+    "id": "269",
+    "name": "Boat/Yacht building",
+    "subsectors": [],
+    "parent": "97"
+  },
+  {
+    "id": "230",
+    "name": "Ship repair and conversion",
+    "subsectors": [],
+    "parent": "97"
+  },
+  {
+    "id": "93",
+    "name": "Metal structures",
+    "subsectors": [],
+    "parent": "12"
+  },
+  {
+    "id": "508",
+    "name": "Other",
+    "subsectors": [],
+    "parent": "12"
+  },
+  {
+    "id": "227",
+    "name": "Repair and maintenance service",
+    "subsectors": [],
+    "parent": "12"
+  },
+  {
+    "id": "11",
+    "name": "Metalworking",
+    "subsectors": [
+      "67",
+      "263",
+      "267",
+      "542"
+    ],
+    "parent": "1"
+  },
+  {
+    "id": "67",
+    "name": "Construction of metal structures",
+    "subsectors": [],
+    "parent": "11"
+  },
+  {
+    "id": "263",
+    "name": "Houses and buildings",
+    "subsectors": [],
+    "parent": "11"
+  },
+  {
+    "id": "267",
+    "name": "Metal products",
+    "subsectors": [],
+    "parent": "11"
+  },
+  {
+    "id": "542",
+    "name": "Metal works",
+    "subsectors": [
+      "75",
+      "62",
+      "69",
+      "66"
+    ],
+    "parent": "11"
+  },
+  {
+    "id": "75",
+    "name": "CNC-machining",
+    "subsectors": [],
+    "parent": "542"
+  },
+  {
+    "id": "62",
+    "name": "Forgings, Fasteners",
+    "subsectors": [],
+    "parent": "542"
+  },
+  {
+    "id": "69",
+    "name": "Gas, Plasma, Laser cutting",
+    "subsectors": [],
+    "parent": "542"
+  },
+  {
+    "id": "66",
+    "name": "MIG, TIG, Aluminum welding",
+    "subsectors": [],
+    "parent": "542"
+  },
+  {
+    "id": "9",
+    "name": "Plastic and Rubber",
+    "subsectors": [
+      "54",
+      "556",
+      "559",
+      "560"
+    ],
+    "parent": "1"
+  },
+  {
+    "id": "54",
+    "name": "Packaging",
+    "subsectors": [],
+    "parent": "9"
+  },
+  {
+    "id": "556",
+    "name": "Plastic goods",
+    "subsectors": [],
+    "parent": "9"
+  },
+  {
+    "id": "559",
+    "name": "Plastic processing technology",
+    "subsectors": [
+      "55",
+      "57",
+      "53"
+    ],
+    "parent": "9"
+  },
+  {
+    "id": "55",
+    "name": "Blowing",
+    "subsectors": [],
+    "parent": "559"
+  },
+  {
+    "id": "57",
+    "name": "Moulding",
+    "subsectors": [],
+    "parent": "559"
+  },
+  {
+    "id": "53",
+    "name": "Plastics welding and processing",
+    "subsectors": [],
+    "parent": "559"
+  },
+  {
+    "id": "560",
+    "name": "Plastic profiles",
+    "subsectors": [],
+    "parent": "9"
+  },
+  {
+    "id": "5",
+    "name": "Printing",
+    "subsectors": [
+      "148",
+      "150",
+      "145"
+    ],
+    "parent": "1"
+  },
+  {
+    "id": "148",
+    "name": "Advertising",
+    "subsectors": [],
+    "parent": "5"
+  },
+  {
+    "id": "150",
+    "name": "Book/Periodicals printing",
+    "subsectors": [],
+    "parent": "5"
+  },
+  {
+    "id": "145",
+    "name": "Labelling and packaging printing",
+    "subsectors": [],
+    "parent": "5"
+  },
+  {
+    "id": "7",
+    "name": "Textile and Clothing",
+    "subsectors": [
+      "44",
+      "45"
+    ],
+    "parent": "1"
+  },
+  {
+    "id": "44",
+    "name": "Clothing",
+    "subsectors": [],
+    "parent": "7"
+  },
+  {
+    "id": "45",
+    "name": "Textile",
+    "subsectors": [],
+    "parent": "7"
+  },
+  {
+    "id": "8",
+    "name": "Wood",
+    "subsectors": [
+      "337",
+      "51",
+      "47"
+    ],
+    "parent": "1"
+  },
+  {
+    "id": "337",
+    "name": "Other (Wood)",
+    "subsectors": [],
+    "parent": "8"
+  },
+  {
+    "id": "51",
+    "name": "Wooden building materials",
+    "subsectors": [],
+    "parent": "8"
+  },
+  {
+    "id": "47",
+    "name": "Wooden houses",
+    "subsectors": [],
+    "parent": "8"
+  },
+  {
+    "id": "3",
+    "name": "Other",
+    "subsectors": [
+      "37",
+      "29",
+      "33"
+    ]
+  },
+  {
+    "id": "37",
+    "name": "Creative industries",
+    "subsectors": [],
+    "parent": "3"
+  },
+  {
+    "id": "29",
+    "name": "Energy technology",
+    "subsectors": [],
+    "parent": "3"
+  },
+  {
+    "id": "33",
+    "name": "Environment",
+    "subsectors": [],
+    "parent": "3"
+  },
+  {
+    "id": "2",
+    "name": "Service",
+    "subsectors": [
+      "25",
+      "35",
+      "28",
+      "22",
+      "141",
+      "21"
+    ]
+  },
+  {
+    "id": "25",
+    "name": "Business services",
+    "subsectors": [],
+    "parent": "2"
+  },
+  {
+    "id": "35",
+    "name": "Engineering",
+    "subsectors": [],
+    "parent": "2"
+  },
+  {
+    "id": "28",
+    "name": "Information Technology and Telecommunications",
+    "subsectors": [
+      "581",
+      "576",
+      "121",
+      "122"
+    ],
+    "parent": "2"
+  },
+  {
+    "id": "581",
+    "name": "Data processing, Web portals, E-marketing",
+    "subsectors": [],
+    "parent": "28"
+  },
+  {
+    "id": "576",
+    "name": "Programming, Consultancy",
+    "subsectors": [],
+    "parent": "28"
+  },
+  {
+    "id": "121",
+    "name": "Software, Hardware",
+    "subsectors": [],
+    "parent": "28"
+  },
+  {
+    "id": "122",
+    "name": "Telecommunications",
+    "subsectors": [],
+    "parent": "28"
+  },
+  {
+    "id": "22",
+    "name": "Tourism",
+    "subsectors": [],
+    "parent": "2"
+  },
+  {
+    "id": "141",
+    "name": "Translation services",
+    "subsectors": [],
+    "parent": "2"
+  },
+  {
+    "id": "21",
+    "name": "Transport and Logistics",
+    "subsectors": [
+      "111",
+      "114",
+      "112",
+      "113"
+    ],
+    "parent": "2"
+  },
+  {
+    "id": "111",
+    "name": "Air",
+    "subsectors": [],
+    "parent": "21"
+  },
+  {
+    "id": "114",
+    "name": "Rail",
+    "subsectors": [],
+    "parent": "21"
+  },
+  {
+    "id": "112",
+    "name": "Road",
+    "subsectors": [],
+    "parent": "21"
+  },
+  {
+    "id": "113",
+    "name": "Water",
+    "subsectors": [],
+    "parent": "21"
+  }
+]
